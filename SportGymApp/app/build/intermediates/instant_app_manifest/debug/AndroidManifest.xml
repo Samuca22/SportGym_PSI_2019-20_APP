@@ -19,7 +19,13 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.sportgymapp.MainActivity" >
+        <activity
+            android:name="com.example.sportgymapp.MainActivity"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.example.sportgymapp.MapasAulasActivity"
+            android:screenOrientation="landscape" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
