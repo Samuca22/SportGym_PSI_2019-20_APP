@@ -40,7 +40,7 @@ public class GrelhaPlanoAdaptador extends BaseAdapter {
             convertView = inflater.inflate(R.layout.item_grelha_plano, null);
         }
 
-        EditText editText = convertView.findViewById(R.id.et_grelha);
+       // EditText editText = convertView.findViewById(R.id.et_grelha);
         return convertView;
     }
 }

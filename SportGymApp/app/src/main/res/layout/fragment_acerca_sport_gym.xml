@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -8,12 +8,18 @@
     tools:context=".AcercaSportGymFragment">
 
 
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
     <TextView
         android:id="@+id/tv_acercaSportGym"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="ACERCA SPORT GYM"
-        android:textColor="@android:color/white"
+        android:text="@string/usar_app"
+        android:textColor="#FFFFFF"
         android:textSize="20sp" />
 
 </FrameLayout>
+</ScrollView>
+
