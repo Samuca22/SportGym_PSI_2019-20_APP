@@ -3,12 +3,18 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".UsarAppFragment">
+    android:orientation="vertical"
+    tools:context=".UsarAppFragment"
+    android:background="#2E2F31">
 
-    <!-- TODO: Update blank fragment layout -->
+
+
     <TextView
+        android:id="@+id/tv_usarApp"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+        android:text="COMO USAR APP"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"/>
 
 </FrameLayout>

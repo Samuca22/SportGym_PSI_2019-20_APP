@@ -3,12 +3,29 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".PlanoNutricaoFragment">
+    android:orientation="vertical"
+    tools:context=".PlanoNutricaoFragment"
+    android:background="#2E2F31">
 
-    <!-- TODO: Update blank fragment layout -->
+
+
     <TextView
+        android:id="@+id/tv_planoNuticao"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+        android:text=""
+        android:textColor="@android:color/white"
+        android:textSize="20sp"/>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fabPlanoTreino"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="16dp"
+        android:backgroundTint="#377EFA"
+        android:src="@drawable/ic_donwload" />
+
 
 </FrameLayout>
+

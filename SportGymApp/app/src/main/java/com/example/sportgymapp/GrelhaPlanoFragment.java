@@ -33,7 +33,7 @@ public class GrelhaPlanoFragment extends Fragment {
 
         gridView = view.findViewById(R.id.grid_view);
 
-      //GrelhaLivroAdaptador adaptador = new GrelhaLivroAdaptador(GrelhaPlanoFragment.this,);
+      //GrelhaPlanoAdaptador adaptador = new GrelhaPlanoAdaptador(GrelhaPlanoFragment.this,);
      // gridView.setAdapter(adaptador);
 
         gridView.setOnItemClickListener(new AdapterView.OnItemClickListener() {

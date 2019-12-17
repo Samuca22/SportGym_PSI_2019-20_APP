@@ -7,7 +7,7 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.EditText;
 
-public class GrelhaLivroAdaptador extends BaseAdapter {
+public class GrelhaPlanoAdaptador extends BaseAdapter {
 
 
     private Context context;
