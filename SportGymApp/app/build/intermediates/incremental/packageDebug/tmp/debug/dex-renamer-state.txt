@@ -1,4 +1,4 @@
-#Wed Nov 20 20:09:21 GMT 2019
-base.0=C\:\\Users\\ricar\\Desktop\\SportGym_PSI_2019-20_APP\\SportGymApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Mon Dec 16 23:57:01 GMT 2019
+base.0=C\:\\SportGymAPP\\SportGymApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

@@ -659,8 +659,16 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable custom_btn_login
+drawable custom_et_activity_login
+drawable custom_iv_email_login
+drawable custom_iv_password_login
+drawable custom_listview_planos_treino
+drawable ic_email_30dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_password_30dp
+drawable logo_branco
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -760,6 +768,8 @@ id direct
 id disableHome
 id edit_query
 id end
+id et_email
+id et_password
 id expand_activities_button
 id expanded_menu
 id forever
@@ -780,6 +790,7 @@ id line1
 id line3
 id listMode
 id list_item
+id listview_treino
 id message
 id middle
 id multiply
@@ -850,6 +861,10 @@ id titleDividerNoCustom
 id title_template
 id top
 id topPanel
+id tv_data_plano
+id tv_esqueceu_password
+id tv_lembrar_utilizador
+id tv_nome_plano
 id unchecked
 id uniform
 id up
@@ -897,8 +912,10 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_login
 layout activity_main
 layout custom_dialog
+layout itens_lista_planos_treino
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
