@@ -21,7 +21,7 @@
         android:orientation="horizontal">
 
         <EditText
-            android:id="@+id/et_password"
+            android:id="@+id/et_email"
             android:layout_width="360dp"
             android:layout_height="60dp"
             android:layout_gravity="center"
@@ -47,11 +47,12 @@
 
 
         <EditText
-            android:id="@+id/et_email"
+            android:id="@+id/et_password"
             android:layout_width="360dp"
             android:layout_height="60dp"
             android:layout_gravity="center"
             android:hint="  Password"
+            android:inputType="textPassword"
             android:textSize="18sp"
             android:background="@drawable/custom_et_activity_login"
             android:drawableLeft="@drawable/custom_iv_password_login"/>
