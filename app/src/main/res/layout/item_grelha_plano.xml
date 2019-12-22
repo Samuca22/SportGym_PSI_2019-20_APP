@@ -16,5 +16,12 @@
             android:textAlignment="center"
             android:textColor="@android:color/white"/>
 
+        <TextView
+            android:text="texto"
+            android:textSize="20dp"
+            android:id="@+id/tv_titulo_gv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
 
 </LinearLayout>

@@ -12,6 +12,7 @@
         android:orientation="vertical">
 
         <Button
+            android:id="@+id/btn_planos_treino"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="4"
@@ -23,6 +24,7 @@
             android:drawableLeft="@drawable/plano_treino"/>
 
         <Button
+            android:id="@+id/btn_planos_nutricao"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="4"
@@ -34,6 +36,7 @@
             android:drawableLeft="@drawable/plano_nutricao"/>
 
         <Button
+            android:id="@+id/btn_mapa_aulas"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="4"

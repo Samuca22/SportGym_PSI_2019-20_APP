@@ -9,25 +9,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-<<<<<<< HEAD:app/src/main/AndroidManifest.xml
         <activity android:name=".MapasAulasActivity"
             android:screenOrientation="landscape"></activity>
         <activity android:name=".BemEstarActivity"></activity>
         <activity android:name=".MainActivity">
-=======
-        <activity
-            android:name=".LoginActivity"
-            android:screenOrientation="portrait">
->>>>>>> Samuel-Design:SportGymApp/app/src/main/AndroidManifest.xml
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".MainActivity"
-            android:launchMode="singleTop" />
     </application>
 
 </manifest>
