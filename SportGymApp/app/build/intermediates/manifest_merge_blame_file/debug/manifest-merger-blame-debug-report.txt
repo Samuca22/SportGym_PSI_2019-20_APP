@@ -25,32 +25,31 @@
 17-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
 18-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:10:9-35
-19        android:testOnly="true"
-20        android:theme="@style/AppTheme" >
-20-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:11:9-40
-21        <activity
-21-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:12:9-20:20
-22            android:name="com.example.sportgymapp.LoginActivity"
-22-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:13:13-42
-23            android:screenOrientation="portrait" >
-23-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:14:13-49
-24            <intent-filter>
-24-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:15:13-19:29
-25                <action android:name="android.intent.action.MAIN" />
-25-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:16:17-69
-25-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:16:25-66
-26
-27                <category android:name="android.intent.category.LAUNCHER" />
-27-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:18:17-77
-27-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:18:27-74
-28            </intent-filter>
-29        </activity>
-30        <activity
-30-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:21:9-23:46
-31            android:name="com.example.sportgymapp.MainActivity"
-31-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:22:13-41
-32            android:launchMode="singleTop" />
-32-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:23:13-43
-33    </application>
-34
-35</manifest>
+19        android:theme="@style/AppTheme" >
+19-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:11:9-40
+20        <activity
+20-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:12:9-20:20
+21            android:name="com.example.sportgymapp.LoginActivity"
+21-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:13:13-42
+22            android:screenOrientation="portrait" >
+22-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:14:13-49
+23            <intent-filter>
+23-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:15:13-19:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:16:17-69
+24-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:16:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:18:17-77
+26-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:18:27-74
+27            </intent-filter>
+28        </activity>
+29        <activity
+29-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:21:9-23:46
+30            android:name="com.example.sportgymapp.MainActivity"
+30-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:22:13-41
+31            android:launchMode="singleTop" />
+31-->C:\SportGymAPP\SportGymApp\app\src\main\AndroidManifest.xml:23:13-43
+32    </application>
+33
+34</manifest>
