@@ -13,12 +13,15 @@ public final class R {
         private attr() {}
 
         public static final int alpha = 0x7f02002b;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/recyclerview/R.java
         public static final int coordinatorLayoutStyle = 0x7f02006a;
         public static final int fastScrollEnabled = 0x7f020095;
         public static final int fastScrollHorizontalThumbDrawable = 0x7f020096;
         public static final int fastScrollHorizontalTrackDrawable = 0x7f020097;
         public static final int fastScrollVerticalThumbDrawable = 0x7f020098;
         public static final int fastScrollVerticalTrackDrawable = 0x7f020099;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/core/R.java
         public static final int font = 0x7f02009b;
         public static final int fontProviderAuthority = 0x7f02009d;
         public static final int fontProviderCerts = 0x7f02009e;
@@ -29,6 +32,7 @@ public final class R {
         public static final int fontStyle = 0x7f0200a3;
         public static final int fontVariationSettings = 0x7f0200a4;
         public static final int fontWeight = 0x7f0200a5;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/recyclerview/R.java
         public static final int keylines = 0x7f0200ba;
         public static final int layoutManager = 0x7f0200bd;
         public static final int layout_anchor = 0x7f0200be;
@@ -41,6 +45,8 @@ public final class R {
         public static final int spanCount = 0x7f020150;
         public static final int stackFromEnd = 0x7f020156;
         public static final int statusBarBackground = 0x7f020158;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/core/R.java
         public static final int ttcIndex = 0x7f020193;
     }
     public static final class color {
@@ -61,12 +67,15 @@ public final class R {
         public static final int compat_control_corner_material = 0x7f050052;
         public static final int compat_notification_large_icon_max_height = 0x7f050053;
         public static final int compat_notification_large_icon_max_width = 0x7f050054;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/recyclerview/R.java
         public static final int fastscroll_default_thickness = 0x7f050057;
         public static final int fastscroll_margin = 0x7f050058;
         public static final int fastscroll_minimum_range = 0x7f050059;
         public static final int item_touch_helper_max_drag_scroll_per_frame = 0x7f050061;
         public static final int item_touch_helper_swipe_escape_max_velocity = 0x7f050062;
         public static final int item_touch_helper_swipe_escape_velocity = 0x7f050063;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/core/R.java
         public static final int notification_action_icon_size = 0x7f050064;
         public static final int notification_action_text_size = 0x7f050065;
         public static final int notification_big_circle_margin = 0x7f050066;
@@ -109,27 +118,47 @@ public final class R {
         public static final int actions = 0x7f070038;
         public static final int async = 0x7f07003e;
         public static final int blocking = 0x7f070041;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/recyclerview/R.java
         public static final int bottom = 0x7f070042;
         public static final int chronometer = 0x7f07004a;
         public static final int end = 0x7f07005a;
+=======
+        public static final int chronometer = 0x7f07004a;
+        public static final int dialog_button = 0x7f070055;
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/core/R.java
         public static final int forever = 0x7f070067;
         public static final int icon = 0x7f07006d;
         public static final int icon_group = 0x7f07006f;
         public static final int info = 0x7f070072;
         public static final int italic = 0x7f070074;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/recyclerview/R.java
         public static final int item_touch_helper_previous_elevation = 0x7f070075;
         public static final int left = 0x7f070077;
         public static final int line1 = 0x7f070078;
         public static final int line3 = 0x7f070079;
         public static final int none = 0x7f070081;
+=======
+        public static final int line1 = 0x7f070078;
+        public static final int line3 = 0x7f070079;
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/core/R.java
         public static final int normal = 0x7f070082;
         public static final int notification_background = 0x7f070083;
         public static final int notification_main_column = 0x7f070084;
         public static final int notification_main_column_container = 0x7f070085;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/recyclerview/R.java
         public static final int right = 0x7f070093;
         public static final int right_icon = 0x7f070094;
         public static final int right_side = 0x7f070095;
         public static final int start = 0x7f0700b4;
+=======
+        public static final int right_icon = 0x7f070094;
+        public static final int right_side = 0x7f070095;
+        public static final int tag_accessibility_actions = 0x7f0700b9;
+        public static final int tag_accessibility_clickable_spans = 0x7f0700ba;
+        public static final int tag_accessibility_heading = 0x7f0700bb;
+        public static final int tag_accessibility_pane_title = 0x7f0700bc;
+        public static final int tag_screen_reader_focusable = 0x7f0700bd;
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/core/R.java
         public static final int tag_transition_group = 0x7f0700be;
         public static final int tag_unhandled_key_event_manager = 0x7f0700bf;
         public static final int tag_unhandled_key_listeners = 0x7f0700c0;
@@ -137,7 +166,10 @@ public final class R {
         public static final int text2 = 0x7f0700c2;
         public static final int time = 0x7f0700c5;
         public static final int title = 0x7f0700c6;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/recyclerview/R.java
         public static final int top = 0x7f0700c9;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/core/R.java
     }
     public static final class integer {
         private integer() {}
@@ -147,6 +179,10 @@ public final class R {
     public static final class layout {
         private layout() {}
 
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/recyclerview/R.java
+=======
+        public static final int custom_dialog = 0x7f0a001e;
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/core/R.java
         public static final int notification_action = 0x7f0a0023;
         public static final int notification_action_tombstone = 0x7f0a0024;
         public static final int notification_template_custom_big = 0x7f0a0025;
@@ -169,7 +205,10 @@ public final class R {
         public static final int TextAppearance_Compat_Notification_Title = 0x7f0d0114;
         public static final int Widget_Compat_NotificationActionContainer = 0x7f0d017f;
         public static final int Widget_Compat_NotificationActionText = 0x7f0d0180;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/recyclerview/R.java
         public static final int Widget_Support_CoordinatorLayout = 0x7f0d0181;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/core/R.java
     }
     public static final class styleable {
         private styleable() {}
@@ -178,6 +217,7 @@ public final class R {
         public static final int ColorStateListItem_android_color = 0;
         public static final int ColorStateListItem_android_alpha = 1;
         public static final int ColorStateListItem_alpha = 2;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/recyclerview/R.java
         public static final int[] CoordinatorLayout = { 0x7f0200ba, 0x7f020158 };
         public static final int CoordinatorLayout_keylines = 0;
         public static final int CoordinatorLayout_statusBarBackground = 1;
@@ -189,6 +229,8 @@ public final class R {
         public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 4;
         public static final int CoordinatorLayout_Layout_layout_insetEdge = 5;
         public static final int CoordinatorLayout_Layout_layout_keyline = 6;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/core/R.java
         public static final int[] FontFamily = { 0x7f02009d, 0x7f02009e, 0x7f02009f, 0x7f0200a0, 0x7f0200a1, 0x7f0200a2 };
         public static final int FontFamily_fontProviderAuthority = 0;
         public static final int FontFamily_fontProviderCerts = 1;

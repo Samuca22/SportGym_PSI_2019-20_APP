@@ -74,14 +74,20 @@ public final class R {
         public static final int actionProviderClass = 0x7f02001f;
         public static final int actionViewClass = 0x7f020020;
         public static final int activityChooserViewStyle = 0x7f020021;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int adjustable = 0x7f020022;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int alertDialogButtonGroupStyle = 0x7f020023;
         public static final int alertDialogCenterButtons = 0x7f020024;
         public static final int alertDialogStyle = 0x7f020025;
         public static final int alertDialogTheme = 0x7f020026;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int allowDividerAbove = 0x7f020027;
         public static final int allowDividerAfterLastItem = 0x7f020028;
         public static final int allowDividerBelow = 0x7f020029;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int allowStacking = 0x7f02002a;
         public static final int alpha = 0x7f02002b;
         public static final int alphabeticModifiers = 0x7f02002c;
@@ -113,7 +119,10 @@ public final class R {
         public static final int buttonStyleSmall = 0x7f020048;
         public static final int buttonTint = 0x7f020049;
         public static final int buttonTintMode = 0x7f02004a;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int checkBoxPreferenceStyle = 0x7f02004c;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int checkboxStyle = 0x7f02004d;
         public static final int checkedTextViewStyle = 0x7f02004e;
         public static final int closeIcon = 0x7f02004f;
@@ -140,6 +149,7 @@ public final class R {
         public static final int contentInsetStart = 0x7f020067;
         public static final int contentInsetStartWithNavigation = 0x7f020068;
         public static final int controlBackground = 0x7f020069;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int coordinatorLayoutStyle = 0x7f02006a;
         public static final int customNavigationLayout = 0x7f02006b;
         public static final int defaultQueryHint = 0x7f02006c;
@@ -154,6 +164,13 @@ public final class R {
         public static final int dialogTheme = 0x7f020075;
         public static final int dialogTitle = 0x7f020076;
         public static final int disableDependentsState = 0x7f020077;
+=======
+        public static final int customNavigationLayout = 0x7f02006b;
+        public static final int defaultQueryHint = 0x7f02006c;
+        public static final int dialogCornerRadius = 0x7f02006f;
+        public static final int dialogPreferredPadding = 0x7f020074;
+        public static final int dialogTheme = 0x7f020075;
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int displayOptions = 0x7f020078;
         public static final int divider = 0x7f020079;
         public static final int dividerHorizontal = 0x7f02007a;
@@ -171,6 +188,7 @@ public final class R {
         public static final int drawerArrowStyle = 0x7f020086;
         public static final int dropDownListViewStyle = 0x7f020087;
         public static final int dropdownListPreferredItemHeight = 0x7f020088;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int dropdownPreferenceStyle = 0x7f020089;
         public static final int editTextBackground = 0x7f02008a;
         public static final int editTextColor = 0x7f02008b;
@@ -187,6 +205,13 @@ public final class R {
         public static final int fastScrollHorizontalTrackDrawable = 0x7f020097;
         public static final int fastScrollVerticalThumbDrawable = 0x7f020098;
         public static final int fastScrollVerticalTrackDrawable = 0x7f020099;
+=======
+        public static final int editTextBackground = 0x7f02008a;
+        public static final int editTextColor = 0x7f02008b;
+        public static final int editTextStyle = 0x7f02008d;
+        public static final int elevation = 0x7f02008e;
+        public static final int expandActivityOverflowButtonDrawable = 0x7f020094;
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int firstBaselineToTopHeight = 0x7f02009a;
         public static final int font = 0x7f02009b;
         public static final int fontFamily = 0x7f02009c;
@@ -199,7 +224,10 @@ public final class R {
         public static final int fontStyle = 0x7f0200a3;
         public static final int fontVariationSettings = 0x7f0200a4;
         public static final int fontWeight = 0x7f0200a5;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int fragment = 0x7f0200a6;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int gapBetweenBars = 0x7f0200a7;
         public static final int goIcon = 0x7f0200a8;
         public static final int height = 0x7f0200a9;
@@ -207,13 +235,17 @@ public final class R {
         public static final int homeAsUpIndicator = 0x7f0200ab;
         public static final int homeLayout = 0x7f0200ac;
         public static final int icon = 0x7f0200ad;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int iconSpaceReserved = 0x7f0200ae;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int iconTint = 0x7f0200af;
         public static final int iconTintMode = 0x7f0200b0;
         public static final int iconifiedByDefault = 0x7f0200b1;
         public static final int imageButtonStyle = 0x7f0200b2;
         public static final int indeterminateProgressStyle = 0x7f0200b3;
         public static final int initialActivityCount = 0x7f0200b4;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int initialExpandedChildrenCount = 0x7f0200b5;
         public static final int isLightTheme = 0x7f0200b6;
         public static final int isPreferenceVisible = 0x7f0200b7;
@@ -229,6 +261,12 @@ public final class R {
         public static final int layout_dodgeInsetEdges = 0x7f0200ea;
         public static final int layout_insetEdge = 0x7f0200f3;
         public static final int layout_keyline = 0x7f0200f4;
+=======
+        public static final int isLightTheme = 0x7f0200b6;
+        public static final int itemPadding = 0x7f0200b8;
+        public static final int lastBaselineToBottomHeight = 0x7f0200bb;
+        public static final int layout = 0x7f0200bc;
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int lineHeight = 0x7f0200f6;
         public static final int listChoiceBackgroundIndicator = 0x7f0200f7;
         public static final int listChoiceIndicatorMultipleAnimated = 0x7f0200f8;
@@ -248,19 +286,28 @@ public final class R {
         public static final int logo = 0x7f020106;
         public static final int logoDescription = 0x7f020107;
         public static final int maxButtonHeight = 0x7f020108;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int maxHeight = 0x7f020109;
         public static final int maxWidth = 0x7f02010a;
         public static final int measureWithLargestChild = 0x7f02010b;
         public static final int menu = 0x7f02010c;
         public static final int min = 0x7f02010d;
+=======
+        public static final int measureWithLargestChild = 0x7f02010b;
+        public static final int menu = 0x7f02010c;
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int multiChoiceItemLayout = 0x7f02010e;
         public static final int navigationContentDescription = 0x7f02010f;
         public static final int navigationIcon = 0x7f020110;
         public static final int navigationMode = 0x7f020111;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int negativeButtonText = 0x7f020112;
         public static final int numericModifiers = 0x7f020113;
         public static final int order = 0x7f020114;
         public static final int orderingFromXml = 0x7f020115;
+=======
+        public static final int numericModifiers = 0x7f020113;
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int overlapAnchor = 0x7f020116;
         public static final int paddingBottomNoButtons = 0x7f020117;
         public static final int paddingEnd = 0x7f020118;
@@ -269,6 +316,7 @@ public final class R {
         public static final int panelBackground = 0x7f02011b;
         public static final int panelMenuListTheme = 0x7f02011c;
         public static final int panelMenuListWidth = 0x7f02011d;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int persistent = 0x7f02011e;
         public static final int popupMenuStyle = 0x7f02011f;
         public static final int popupTheme = 0x7f020120;
@@ -283,6 +331,11 @@ public final class R {
         public static final int preferenceScreenStyle = 0x7f020132;
         public static final int preferenceStyle = 0x7f020133;
         public static final int preferenceTheme = 0x7f020134;
+=======
+        public static final int popupMenuStyle = 0x7f02011f;
+        public static final int popupTheme = 0x7f020120;
+        public static final int popupWindowStyle = 0x7f020121;
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int preserveIconSpacing = 0x7f020135;
         public static final int progressBarPadding = 0x7f020136;
         public static final int progressBarStyle = 0x7f020137;
@@ -292,6 +345,7 @@ public final class R {
         public static final int ratingBarStyle = 0x7f02013b;
         public static final int ratingBarStyleIndicator = 0x7f02013c;
         public static final int ratingBarStyleSmall = 0x7f02013d;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int reverseLayout = 0x7f02013e;
         public static final int searchHintIcon = 0x7f02013f;
         public static final int searchIcon = 0x7f020140;
@@ -311,14 +365,31 @@ public final class R {
         public static final int singleChoiceItemLayout = 0x7f02014e;
         public static final int singleLineTitle = 0x7f02014f;
         public static final int spanCount = 0x7f020150;
+=======
+        public static final int searchHintIcon = 0x7f02013f;
+        public static final int searchIcon = 0x7f020140;
+        public static final int searchViewStyle = 0x7f020141;
+        public static final int seekBarStyle = 0x7f020144;
+        public static final int selectableItemBackground = 0x7f020146;
+        public static final int selectableItemBackgroundBorderless = 0x7f020147;
+        public static final int showAsAction = 0x7f020149;
+        public static final int showDividers = 0x7f02014a;
+        public static final int showText = 0x7f02014c;
+        public static final int showTitle = 0x7f02014d;
+        public static final int singleChoiceItemLayout = 0x7f02014e;
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int spinBars = 0x7f020151;
         public static final int spinnerDropDownItemStyle = 0x7f020152;
         public static final int spinnerStyle = 0x7f020153;
         public static final int splitTrack = 0x7f020154;
         public static final int srcCompat = 0x7f020155;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int stackFromEnd = 0x7f020156;
         public static final int state_above_anchor = 0x7f020157;
         public static final int statusBarBackground = 0x7f020158;
+=======
+        public static final int state_above_anchor = 0x7f020157;
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int subMenuArrow = 0x7f020159;
         public static final int submitBackground = 0x7f02015a;
         public static final int subtitle = 0x7f02015b;
@@ -326,6 +397,7 @@ public final class R {
         public static final int subtitleTextColor = 0x7f02015d;
         public static final int subtitleTextStyle = 0x7f02015e;
         public static final int suggestionRowLayout = 0x7f02015f;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int summary = 0x7f020160;
         public static final int summaryOff = 0x7f020161;
         public static final int summaryOn = 0x7f020162;
@@ -337,6 +409,12 @@ public final class R {
         public static final int switchTextAppearance = 0x7f020168;
         public static final int switchTextOff = 0x7f020169;
         public static final int switchTextOn = 0x7f02016a;
+=======
+        public static final int switchMinWidth = 0x7f020163;
+        public static final int switchPadding = 0x7f020164;
+        public static final int switchStyle = 0x7f020167;
+        public static final int switchTextAppearance = 0x7f020168;
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int textAllCaps = 0x7f02016b;
         public static final int textAppearanceLargePopupMenu = 0x7f02016c;
         public static final int textAppearanceListItem = 0x7f02016d;
@@ -378,11 +456,16 @@ public final class R {
         public static final int trackTint = 0x7f020191;
         public static final int trackTintMode = 0x7f020192;
         public static final int ttcIndex = 0x7f020193;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int updatesContinuously = 0x7f020194;
         public static final int useSimpleSummaryProvider = 0x7f020195;
         public static final int viewInflaterClass = 0x7f020196;
         public static final int voiceIcon = 0x7f020197;
         public static final int widgetLayout = 0x7f020198;
+=======
+        public static final int viewInflaterClass = 0x7f020196;
+        public static final int voiceIcon = 0x7f020197;
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int windowActionBar = 0x7f020199;
         public static final int windowActionBarOverlay = 0x7f02019a;
         public static final int windowActionModeOverlay = 0x7f02019b;
@@ -467,7 +550,10 @@ public final class R {
         public static final int material_grey_900 = 0x7f04003e;
         public static final int notification_action_color_filter = 0x7f04003f;
         public static final int notification_icon_bg_color = 0x7f040040;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int preference_fallback_accent_color = 0x7f040041;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int primary_dark_material_dark = 0x7f040042;
         public static final int primary_dark_material_light = 0x7f040043;
         public static final int primary_material_dark = 0x7f040044;
@@ -581,9 +667,12 @@ public final class R {
         public static final int compat_notification_large_icon_max_width = 0x7f050054;
         public static final int disabled_alpha_material_dark = 0x7f050055;
         public static final int disabled_alpha_material_light = 0x7f050056;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int fastscroll_default_thickness = 0x7f050057;
         public static final int fastscroll_margin = 0x7f050058;
         public static final int fastscroll_minimum_range = 0x7f050059;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int highlight_alpha_material_colored = 0x7f05005a;
         public static final int highlight_alpha_material_dark = 0x7f05005b;
         public static final int highlight_alpha_material_light = 0x7f05005c;
@@ -591,9 +680,12 @@ public final class R {
         public static final int hint_alpha_material_light = 0x7f05005e;
         public static final int hint_pressed_alpha_material_dark = 0x7f05005f;
         public static final int hint_pressed_alpha_material_light = 0x7f050060;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int item_touch_helper_max_drag_scroll_per_frame = 0x7f050061;
         public static final int item_touch_helper_swipe_escape_max_velocity = 0x7f050062;
         public static final int item_touch_helper_swipe_escape_velocity = 0x7f050063;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int notification_action_icon_size = 0x7f050064;
         public static final int notification_action_text_size = 0x7f050065;
         public static final int notification_big_circle_margin = 0x7f050066;
@@ -609,11 +701,14 @@ public final class R {
         public static final int notification_subtext_size = 0x7f050070;
         public static final int notification_top_pad = 0x7f050071;
         public static final int notification_top_pad_large_text = 0x7f050072;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int preference_dropdown_padding_start = 0x7f050073;
         public static final int preference_icon_minWidth = 0x7f050074;
         public static final int preference_seekbar_padding_horizontal = 0x7f050075;
         public static final int preference_seekbar_padding_vertical = 0x7f050076;
         public static final int preference_seekbar_value_minWidth = 0x7f050077;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int tooltip_corner_radius = 0x7f050078;
         public static final int tooltip_horizontal_padding = 0x7f050079;
         public static final int tooltip_margin = 0x7f05007a;
@@ -720,7 +815,10 @@ public final class R {
         public static final int btn_radio_off_to_on_mtrl_animation = 0x7f06005c;
         public static final int btn_radio_on_mtrl = 0x7f06005d;
         public static final int btn_radio_on_to_off_mtrl_animation = 0x7f06005e;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int ic_arrow_down_24dp = 0x7f060067;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int notification_action_background = 0x7f06006e;
         public static final int notification_bg = 0x7f06006f;
         public static final int notification_bg_low = 0x7f060070;
@@ -733,7 +831,10 @@ public final class R {
         public static final int notification_template_icon_low_bg = 0x7f060077;
         public static final int notification_tile_bg = 0x7f060078;
         public static final int notify_panel_notification_icon_bg = 0x7f060079;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int preference_list_divider_material = 0x7f06007a;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int tooltip_frame_dark = 0x7f06007b;
         public static final int tooltip_frame_light = 0x7f06007c;
     }
@@ -796,7 +897,10 @@ public final class R {
         public static final int alertTitle = 0x7f07003b;
         public static final int async = 0x7f07003e;
         public static final int blocking = 0x7f070041;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int bottom = 0x7f070042;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int buttonPanel = 0x7f070043;
         public static final int checkbox = 0x7f070048;
         public static final int checked = 0x7f070049;
@@ -809,20 +913,29 @@ public final class R {
         public static final int default_activity_button = 0x7f070054;
         public static final int dialog_button = 0x7f070055;
         public static final int edit_query = 0x7f070059;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int end = 0x7f07005a;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int expand_activities_button = 0x7f070062;
         public static final int expanded_menu = 0x7f070063;
         public static final int forever = 0x7f070067;
         public static final int group_divider = 0x7f070069;
         public static final int home = 0x7f07006b;
         public static final int icon = 0x7f07006d;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int icon_frame = 0x7f07006e;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int icon_group = 0x7f07006f;
         public static final int image = 0x7f070071;
         public static final int info = 0x7f070072;
         public static final int italic = 0x7f070074;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int item_touch_helper_previous_elevation = 0x7f070075;
         public static final int left = 0x7f070077;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int line1 = 0x7f070078;
         public static final int line3 = 0x7f070079;
         public static final int listMode = 0x7f07007a;
@@ -840,8 +953,11 @@ public final class R {
         public static final int progress_circular = 0x7f07008f;
         public static final int progress_horizontal = 0x7f070090;
         public static final int radio = 0x7f070091;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int recycler_view = 0x7f070092;
         public static final int right = 0x7f070093;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int right_icon = 0x7f070094;
         public static final int right_side = 0x7f070095;
         public static final int screen = 0x7f070096;
@@ -858,20 +974,31 @@ public final class R {
         public static final int search_plate = 0x7f0700a1;
         public static final int search_src_text = 0x7f0700a2;
         public static final int search_voice_btn = 0x7f0700a3;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int seekbar = 0x7f0700a4;
         public static final int seekbar_value = 0x7f0700a5;
         public static final int select_dialog_listview = 0x7f0700a6;
         public static final int shortcut = 0x7f0700a7;
         public static final int spacer = 0x7f0700ab;
         public static final int spinner = 0x7f0700ac;
+=======
+        public static final int select_dialog_listview = 0x7f0700a6;
+        public static final int shortcut = 0x7f0700a7;
+        public static final int spacer = 0x7f0700ab;
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int split_action_bar = 0x7f0700ad;
         public static final int src_atop = 0x7f0700b0;
         public static final int src_in = 0x7f0700b1;
         public static final int src_over = 0x7f0700b2;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int start = 0x7f0700b4;
         public static final int submenuarrow = 0x7f0700b5;
         public static final int submit_area = 0x7f0700b6;
         public static final int switchWidget = 0x7f0700b7;
+=======
+        public static final int submenuarrow = 0x7f0700b5;
+        public static final int submit_area = 0x7f0700b6;
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int tabMode = 0x7f0700b8;
         public static final int tag_accessibility_actions = 0x7f0700b9;
         public static final int tag_accessibility_clickable_spans = 0x7f0700ba;
@@ -889,7 +1016,10 @@ public final class R {
         public static final int title = 0x7f0700c6;
         public static final int titleDividerNoCustom = 0x7f0700c7;
         public static final int title_template = 0x7f0700c8;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int top = 0x7f0700c9;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int topPanel = 0x7f0700ca;
         public static final int unchecked = 0x7f0700cf;
         public static final int uniform = 0x7f0700d0;
@@ -948,14 +1078,18 @@ public final class R {
         public static final int abc_select_dialog_material = 0x7f0a001a;
         public static final int abc_tooltip = 0x7f0a001b;
         public static final int custom_dialog = 0x7f0a001e;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int expand_button = 0x7f0a001f;
         public static final int image_frame = 0x7f0a0021;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int notification_action = 0x7f0a0023;
         public static final int notification_action_tombstone = 0x7f0a0024;
         public static final int notification_template_custom_big = 0x7f0a0025;
         public static final int notification_template_icon_group = 0x7f0a0026;
         public static final int notification_template_part_chronometer = 0x7f0a0027;
         public static final int notification_template_part_time = 0x7f0a0028;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int preference = 0x7f0a0029;
         public static final int preference_category = 0x7f0a002a;
         public static final int preference_category_material = 0x7f0a002b;
@@ -972,6 +1106,8 @@ public final class R {
         public static final int preference_widget_seekbar_material = 0x7f0a0038;
         public static final int preference_widget_switch = 0x7f0a0039;
         public static final int preference_widget_switch_compat = 0x7f0a003a;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int select_dialog_item_material = 0x7f0a003b;
         public static final int select_dialog_multichoice_material = 0x7f0a003c;
         public static final int select_dialog_singlechoice_material = 0x7f0a003d;
@@ -1007,6 +1143,7 @@ public final class R {
         public static final int abc_shareactionprovider_share_with = 0x7f0c0018;
         public static final int abc_shareactionprovider_share_with_application = 0x7f0c0019;
         public static final int abc_toolbar_collapse_description = 0x7f0c001a;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int copy = 0x7f0c001c;
         public static final int expand_button_title = 0x7f0c001d;
         public static final int not_set = 0x7f0c001e;
@@ -1016,6 +1153,10 @@ public final class R {
         public static final int summary_collapsed_preference_list = 0x7f0c002c;
         public static final int v7_preference_off = 0x7f0c002d;
         public static final int v7_preference_on = 0x7f0c002e;
+=======
+        public static final int search_menu_title = 0x7f0c002a;
+        public static final int status_bar_notification_info_overflow = 0x7f0c002b;
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
     }
     public static final class style {
         private style() {}
@@ -1191,6 +1332,7 @@ public final class R {
         public static final int Platform_V25_AppCompat = 0x7f0d00a9;
         public static final int Platform_V25_AppCompat_Light = 0x7f0d00aa;
         public static final int Platform_Widget_AppCompat_Spinner = 0x7f0d00ab;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int Preference = 0x7f0d00ac;
         public static final int PreferenceCategoryTitleTextStyle = 0x7f0d00c2;
         public static final int PreferenceFragment = 0x7f0d00c3;
@@ -1222,6 +1364,8 @@ public final class R {
         public static final int Preference_SwitchPreferenceCompat = 0x7f0d00c0;
         public static final int Preference_SwitchPreferenceCompat_Material = 0x7f0d00c1;
         public static final int Preference_SwitchPreference_Material = 0x7f0d00bf;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int RtlOverlay_DialogWindowTitle_AppCompat = 0x7f0d00cf;
         public static final int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 0x7f0d00d0;
         public static final int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 0x7f0d00d1;
@@ -1400,7 +1544,10 @@ public final class R {
         public static final int Widget_AppCompat_Toolbar_Button_Navigation = 0x7f0d017e;
         public static final int Widget_Compat_NotificationActionContainer = 0x7f0d017f;
         public static final int Widget_Compat_NotificationActionText = 0x7f0d0180;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int Widget_Support_CoordinatorLayout = 0x7f0d0181;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
     }
     public static final class styleable {
         private styleable() {}
@@ -1640,6 +1787,7 @@ public final class R {
         public static final int AppCompatTheme_windowMinWidthMajor = 122;
         public static final int AppCompatTheme_windowMinWidthMinor = 123;
         public static final int AppCompatTheme_windowNoTitle = 124;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int[] BackgroundStyle = { 0x101030e, 0x7f020146 };
         public static final int BackgroundStyle_android_selectableItemBackground = 0;
         public static final int BackgroundStyle_selectableItemBackground = 1;
@@ -1652,6 +1800,10 @@ public final class R {
         public static final int CheckBoxPreference_disableDependentsState = 3;
         public static final int CheckBoxPreference_summaryOff = 4;
         public static final int CheckBoxPreference_summaryOn = 5;
+=======
+        public static final int[] ButtonBarLayout = { 0x7f02002a };
+        public static final int ButtonBarLayout_allowStacking = 0;
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int[] ColorStateListItem = { 0x10101a5, 0x101031f, 0x7f02002b };
         public static final int ColorStateListItem_android_color = 0;
         public static final int ColorStateListItem_android_alpha = 1;
@@ -1661,6 +1813,7 @@ public final class R {
         public static final int CompoundButton_buttonCompat = 1;
         public static final int CompoundButton_buttonTint = 2;
         public static final int CompoundButton_buttonTintMode = 3;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int[] CoordinatorLayout = { 0x7f0200ba, 0x7f020158 };
         public static final int CoordinatorLayout_keylines = 0;
         public static final int CoordinatorLayout_statusBarBackground = 1;
@@ -1685,6 +1838,8 @@ public final class R {
         public static final int DialogPreference_dialogTitle = 9;
         public static final int DialogPreference_negativeButtonText = 10;
         public static final int DialogPreference_positiveButtonText = 11;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int[] DrawerArrowToggle = { 0x7f02002d, 0x7f02002e, 0x7f02003a, 0x7f020053, 0x7f020081, 0x7f0200a7, 0x7f020151, 0x7f020178 };
         public static final int DrawerArrowToggle_arrowHeadLength = 0;
         public static final int DrawerArrowToggle_arrowShaftLength = 1;
@@ -1694,9 +1849,12 @@ public final class R {
         public static final int DrawerArrowToggle_gapBetweenBars = 5;
         public static final int DrawerArrowToggle_spinBars = 6;
         public static final int DrawerArrowToggle_thickness = 7;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int[] EditTextPreference = { 0x7f020124, 0x7f020195 };
         public static final int EditTextPreference_pref_disableMessagePaddingFix = 0;
         public static final int EditTextPreference_useSimpleSummaryProvider = 1;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int[] FontFamily = { 0x7f02009d, 0x7f02009e, 0x7f02009f, 0x7f0200a0, 0x7f0200a1, 0x7f0200a2 };
         public static final int FontFamily_fontProviderAuthority = 0;
         public static final int FontFamily_fontProviderCerts = 1;
@@ -1796,17 +1954,21 @@ public final class R {
         public static final int MenuView_android_itemIconDisabledAlpha = 6;
         public static final int MenuView_preserveIconSpacing = 7;
         public static final int MenuView_subMenuArrow = 8;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int[] MultiSelectListPreference = { 0x10100b2, 0x10101f8, 0x7f020092, 0x7f020093 };
         public static final int MultiSelectListPreference_android_entries = 0;
         public static final int MultiSelectListPreference_android_entryValues = 1;
         public static final int MultiSelectListPreference_entries = 2;
         public static final int MultiSelectListPreference_entryValues = 3;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int[] PopupWindow = { 0x1010176, 0x10102c9, 0x7f020116 };
         public static final int PopupWindow_android_popupBackground = 0;
         public static final int PopupWindow_android_popupAnimationStyle = 1;
         public static final int PopupWindow_overlapAnchor = 2;
         public static final int[] PopupWindowBackgroundState = { 0x7f020157 };
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int[] Preference = { 0x1010002, 0x101000d, 0x101000e, 0x10100f2, 0x10101e1, 0x10101e6, 0x10101e8, 0x10101e9, 0x10101ea, 0x10101eb, 0x10101ec, 0x10101ed, 0x10101ee, 0x10102e3, 0x101055c, 0x1010561, 0x7f020027, 0x7f020029, 0x7f02006d, 0x7f02006e, 0x7f020090, 0x7f020091, 0x7f0200a6, 0x7f0200ad, 0x7f0200ae, 0x7f0200b7, 0x7f0200b9, 0x7f0200bc, 0x7f020114, 0x7f02011e, 0x7f020145, 0x7f020148, 0x7f02014f, 0x7f020160, 0x7f020181, 0x7f020198 };
         public static final int Preference_android_icon = 0;
         public static final int Preference_android_persistent = 1;
@@ -1895,6 +2057,11 @@ public final class R {
         public static final int RecyclerView_reverseLayout = 8;
         public static final int RecyclerView_spanCount = 9;
         public static final int RecyclerView_stackFromEnd = 10;
+=======
+        public static final int[] RecycleListView = { 0x7f020117, 0x7f02011a };
+        public static final int RecycleListView_paddingBottomNoButtons = 0;
+        public static final int RecycleListView_paddingTopNoTitle = 1;
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int[] SearchView = { 0x10100da, 0x101011f, 0x1010220, 0x1010264, 0x7f02004f, 0x7f02005e, 0x7f02006c, 0x7f0200a8, 0x7f0200b1, 0x7f0200bc, 0x7f020138, 0x7f020139, 0x7f02013f, 0x7f020140, 0x7f02015a, 0x7f02015f, 0x7f020197 };
         public static final int SearchView_android_focusable = 0;
         public static final int SearchView_android_maxWidth = 1;
@@ -1913,6 +2080,7 @@ public final class R {
         public static final int SearchView_submitBackground = 14;
         public static final int SearchView_suggestionRowLayout = 15;
         public static final int SearchView_voiceIcon = 16;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int[] SeekBarPreference = { 0x10100f2, 0x1010136, 0x7f020022, 0x7f02010d, 0x7f020142, 0x7f02014b, 0x7f020194 };
         public static final int SeekBarPreference_android_layout = 0;
         public static final int SeekBarPreference_android_max = 1;
@@ -1921,6 +2089,8 @@ public final class R {
         public static final int SeekBarPreference_seekBarIncrement = 4;
         public static final int SeekBarPreference_showSeekBarValue = 5;
         public static final int SeekBarPreference_updatesContinuously = 6;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int[] Spinner = { 0x10100b2, 0x1010176, 0x101017b, 0x1010262, 0x7f020120 };
         public static final int Spinner_android_entries = 0;
         public static final int Spinner_android_popupBackground = 1;
@@ -1951,6 +2121,7 @@ public final class R {
         public static final int SwitchCompat_track = 11;
         public static final int SwitchCompat_trackTint = 12;
         public static final int SwitchCompat_trackTintMode = 13;
+<<<<<<< HEAD:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/preference/R.java
         public static final int[] SwitchPreference = { 0x10101ef, 0x10101f0, 0x10101f1, 0x101036b, 0x101036c, 0x7f020077, 0x7f020161, 0x7f020162, 0x7f020169, 0x7f02016a };
         public static final int SwitchPreference_android_summaryOn = 0;
         public static final int SwitchPreference_android_summaryOff = 1;
@@ -1973,6 +2144,8 @@ public final class R {
         public static final int SwitchPreferenceCompat_summaryOn = 7;
         public static final int SwitchPreferenceCompat_switchTextOff = 8;
         public static final int SwitchPreferenceCompat_switchTextOn = 9;
+=======
+>>>>>>> Samuel-Design:SportGymApp/app/build/generated/not_namespaced_r_class_sources/debug/r/androidx/appcompat/R.java
         public static final int[] TextAppearance = { 0x1010095, 0x1010096, 0x1010097, 0x1010098, 0x101009a, 0x101009b, 0x1010161, 0x1010162, 0x1010163, 0x1010164, 0x10103ac, 0x1010585, 0x7f02009c, 0x7f0200a4, 0x7f02016b, 0x7f020176 };
         public static final int TextAppearance_android_textSize = 0;
         public static final int TextAppearance_android_typeface = 1;
