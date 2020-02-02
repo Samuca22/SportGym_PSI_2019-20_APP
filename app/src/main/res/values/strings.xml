@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sportgym</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="usar_app">Esta aplicação é unicamente destinada aos clientes/sócios inscritos na cadeia de ginásios SportGym.
+        \n\nApós Login - Após efetuar o login irá encontrar o menu principal onde poderá optar por diversas opções: "Planos de Treino", "Planos de Nutrição", "Mapas de Aulas", "Seu Bem-estar" e ainda "Definições".
+        \n\nAo Selecionar:
+        \n\n-Planos de Treino/Planos de Nutrição permite observar a listagem de todos os planos de treino atribuídos por um colaborador do ginásio ordenados do mais recente para o mais antigo, sendo também possivel ver e efectuar o download do plano de treino selecionado assim como vê-lo na própia aplicação.
+        \n\n-Mapa de Aulas.
+        \n\n-Seu Bem-Estar
+        \n\n-Definições
+
+
+
+    </string>
+</resources>
