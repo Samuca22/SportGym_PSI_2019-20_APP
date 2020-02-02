@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".vistas.BemEstarActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="#377EFA"
+        app:contentInsetStart="0dp">
+
+        <TextView
+            android:id="@+id/tv_title_bemEstar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textColor="#fff"
+            android:textSize="32dp" />
+
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#377EFA">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="16dp"
+            android:paddingEnd="16dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bem_estar_item_estilo"
+                android:orientation="vertical"
+                android:padding="12dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="O MEU PESO"
+                    android:textColor="#ffffff" />
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="24dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="bottom"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Peso Atual"
+                            android:textColor="#ffffff" />
+
+                        <TextView
+                            android:id="@+id/tv_peso"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="--kg"
+                            android:textColor="#ffffff" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="end"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:src="@drawable/balanca" />
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="32dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bem_estar_item_estilo"
+                android:orientation="vertical"
+                android:padding="12dp">
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="IMC (Índice de Massa Corporal)"
+                    android:textColor="#ffffff" />
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="24dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="3dp"
+                        android:text="PESO"
+                        android:textAlignment="center"
+                        android:textColor="#f6f6f6" />
+
+                    <EditText
+                        android:id="@+id/et_peso"
+                        android:layout_width="200dp"
+                        android:layout_height="40dp"
+                        android:background="@drawable/radius"
+                        android:backgroundTint="#ffffff"
+                        android:hint="Peso (kg)"
+                        android:inputType="numberDecimal"
+                        android:maxLength="5"
+                        android:padding="5dp"
+                        android:textAlignment="center" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="10dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="3dp"
+                        android:text="ALTURA"
+                        android:textAlignment="center"
+                        android:textColor="#f6f6f6" />
+
+                    <EditText
+                        android:id="@+id/et_altura"
+                        android:layout_width="200dp"
+                        android:layout_height="40dp"
+                        android:background="@drawable/radius"
+                        android:backgroundTint="#ffffff"
+                        android:hint="Altura (cm)"
+                        android:inputType="number"
+                        android:maxLength="3"
+                        android:padding="5dp"
+                        android:textAlignment="center" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="20dp" />
+
+                    <Button
+                        android:id="@+id/btn_calc_imc"
+                        android:layout_width="160dp"
+                        android:layout_height="40dp"
+                        android:background="@drawable/radius"
+                        android:backgroundTint="#f6f6f6"
+                        android:text="calcular" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="12dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="IMC"
+                        android:textColor="#ffffff"
+                        android:textSize="16dp" />
+
+                    <TextView
+                        android:id="@+id/tv_resutado_imc"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="28dp" />
+
+                    <TextView
+                        android:id="@+id/tv_resultado_msg"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="20dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="PESO IDEAL"
+                        android:textColor="#ffffff"
+                        android:textSize="16dp" />
+
+                    <TextView
+                        android:id="@+id/tv_peso_ideal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="#00FF08"
+                        android:textSize="20dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="32dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:background="@drawable/bem_estar_item_estilo"
+                android:orientation="vertical"
+                android:padding="12dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="DICAS"
+                    android:textColor="#ffffff" />
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="24dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris feugiat ex massa, eget dignissim ex porttitor a. Donec fringilla lacinia erat quis malesuada. Vivamus tincidunt auctor diam non vehicula. Aliquam ac orci in magna vestibulum malesuada. Sed viverra dui ut finibus sagittis. Pellentesque nec neque tincidunt, tristique velit quis, eleifend felis. Donec cursus magna vel dictum sollicitudin.
+
+Aenean sed ultricies dolor. Donec sapien nisl, gravida sed urna et, semper semper mi. Donec a blandit mi. Quisque venenatis blandit mi non ullamcorper. Suspendisse auctor eget libero ut cursus. Fusce feugiat ut ex eu maximus. Maecenas laoreet eget neque ac scelerisque. Pellentesque malesuada pharetra est non lacinia."
+                    android:textColor="#ffffff" />
+
+
+            </LinearLayout>
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

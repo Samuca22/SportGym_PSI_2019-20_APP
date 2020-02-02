@@ -1,0 +1,4 @@
+#Sun Feb 02 18:45:21 GMT 2020
+base.0=C\:\\Users\\ricar\\Desktop\\Projetos\\AMSI201920PROJETO_2180604_2180641_2180654\\Sportgym_app\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

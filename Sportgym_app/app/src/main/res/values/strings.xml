@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">app_backup</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="usar_app">Esta aplicação é unicamente destinada aos clientes/sócios inscritos na cadeia de ginásios SportGym.
+        \n\nApós Login - Após efetuar o login irá encontrar o meu principal onde poderá optar por diversas opções: "Planos de Treino", "Planos de Nutrição", "Mapas de Aulas", "Seu Bem-estar" e ainda "Definições".
+        \n\nAo Selecionar:
+        \n\n-Planos de Treino/Planos de Nutrição ira encontrar uma listagem completa de todos os plano de treino solicitados a um colaborador do ginásio ordenados do mais recente para o mais antigo, sendo possivel ver e efectuar o download do plano de treino selecionado asssim como vê-lo na própia aplicação.
+        \n\n-Mapa de Aulas.
+        \n\n-Seu Bem-Estar
+        \n\n-Definições
+
+
+
+    </string>
+    <string name="esqueceu_a_sua_password"><u>Esqueceu a password?</u></string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit nulla, scelerisque quis suscipit non, blandit ut dui. Fusce a feugiat lorem. Proin a euismod lorem, a fermentum orci.\n\n\n Donec iaculis tempus urna quis ornare. Nunc egestas sagittis ex eget porta. Ut ac suscipit neque. Nunc vehicula ac diam non vulputate.\n\n\n Praesent sed luctus nisl. Aliquam tristique nulla in urna ornare, hendrerit mollis orci egestas. Mauris efficitur gravida velit tincidunt convallis.\n\n\n Integer ut arcu sed risus fermentum eleifend. Nam rutrum euismod sem elementum scelerisque. Vestibulum consequat a nibh vitae consequat. Phasellus at est maximus, vehicula tortor eu, tincidunt urna. Integer in maximus diam. Phasellus dolor nulla, malesuada ac fermentum quis, posuere eu mi. Suspendisse in lorem nisl. Donec tristique laoreet velit, in finibus erat interdum in. Aenean a convallis urna, in dictum nisi.</string>
+</resources>

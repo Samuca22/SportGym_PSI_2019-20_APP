@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d29bd8e6-8a5b-45bf-8694-1693b267dde1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_29_x86" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sportgym/modelos/SingletonSportgym.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="163" column="87" selection-start-line="163" selection-start-column="87" selection-end-line="163" selection-end-column="87" />
+              <folding>
+                <element signature="method#getInstance#0;class#SingletonSportgym#0" />
+                <element signature="method#SingletonSportgym#0;class#SingletonSportgym#0" />
+                <element signature="method#setPlanosListener#0;class#SingletonSportgym#0" />
+                <element signature="method#getPlano#0;class#SingletonSportgym#0" />
+                <element signature="method#adicionarPlanoBD#0;class#SingletonSportgym#0" />
+                <element signature="method#adicionarPlanosBD#0;class#SingletonSportgym#0" />
+                <element signature="method#getAulasBD#0;class#SingletonSportgym#0" />
+                <element signature="method#getUsername#1;class#SingletonSportgym#0" />
+                <element signature="method#putAlterarUsernameAPI#0;class#SingletonSportgym#0" />
+                <element signature="method#putAlterarPasswordAPI#0;class#SingletonSportgym#0" />
+                <element signature="method#putAlterarPesoAlturaAPI#0;class#SingletonSportgym#0" />
+                <element signature="method#getAllPlanosNutricaoAPI#0;class#SingletonSportgym#0" />
+                <element signature="method#getAllPlanosTreinoAPI#0;class#SingletonSportgym#0" />
+                <element signature="method#adicionarPlanoTreinoAPI#0;class#SingletonSportgym#0" />
+                <element signature="method#adicionarPlanoNutricaoAPI#0;class#SingletonSportgym#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sportgym/vistas/BemEstarActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="77" selection-start-line="77" selection-end-line="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>adapt</find>
+      <find>api</find>
+      <find />
+      <find>sin</find>
+      <find>SIngl</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/app_backup/utils/SportGymJsonParser.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/alterar_dados_layout.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/app_backup/AlterarDadosDialog.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/app_backup/AlterarUsernameDialog.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/app_backup/DadosPessoaisActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/app_backup/AlterarPasswordDialog.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/alterar_password_layout.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/custom_spinner.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_lista_plano.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/app_backup/PlanoSelecionadoActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/item_grelha_plano.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_apagar_plano.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/app_backup/modelos/SingletonSportgym.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/item_lista_plano.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/bem_estar_item_estilo.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/menu_nav.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_bem_estar.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_acerca_sport_gym.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/nav_header.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/app_backup/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/app_backup/GrelhaPlanoFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/app_backup/ListaPlanoFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/app_backup/LoginActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/app_backup/modelos/SportGymDBHelper.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/app_backup/modelos/User.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/app_backup/modelos/Plano.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/app_backup/modelos/Aula.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/app_backup/listeners/PlanosListener.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/app_backup/vistas/ListaPlanoFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/alterar_username_layout.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/app_backup/vistas/GrelhaPlanoFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_plano_selecionado.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/app_backup/vistas/DadosPessoaisActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_como_usar_app.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/app_backup/vistas/ComoUsarAppFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/app_backup/vistas/AcercaSportGymFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/app_backup/vistas/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/sportgym/vistas/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_definicoes.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_dados_pessoais.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/sportgym/vistas/PlanoSelecionadoActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/sportgym/vistas/ListaPlanoFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/sportgym/modelos/Plano.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages AndroidView="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="emulator-5554" />
+    <property name="DEBUGGABLE_PROCESS" value="com.example.app_backup" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Nexus_5X_API_29_x86" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-01-18T00:21:56.418Z" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ricar\Desktop\backup_app\app\src\main\res\layout" />
+      <recent name="C:\Users\ricar\Desktop\backup_app\app\src\main\res\drawable" />
+      <recent name="C:\Users\ricar\Desktop\backup_app\app\src\main\res\values" />
+      <recent name="C:\Users\ricar\Desktop\backup_app\app\src\main\res" />
+      <recent name="C:\Users\ricar\Desktop\backup_app\app\src\main\java\com\example\app_backup" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.example.app_backup" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.app_backup.vistas" />
+      <recent name="com.example.app_backup" />
+      <recent name="com.example.app_backup.Adaptadores" />
+      <recent name="com.example.app_backup.modelos" />
+      <recent name="com.example.app_backup.listeners" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ricar\Desktop\backup_app\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d29bd8e6-8a5b-45bf-8694-1693b267dde1" name="Default Changelist" comment="" />
+      <created>1576781336621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576781336621</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Resources Explorer" order="6" weight="0.3295302" />
+      <window_info content_ui="combo" id="Project" order="7" visible="true" weight="0.21946308" />
+      <window_info id="Captures" order="8" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Logcat" order="0" weight="0.3286119" />
+      <window_info anchor="bottom" id="TODO" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.33427763" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.08389262" side_tool="true" weight="0.75637394" />
+      <window_info active="true" anchor="bottom" id="Build" order="6" sideWeight="0.91610736" visible="true" weight="0.3243626" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.3286119" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Preview" order="3" weight="0.2590604" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" weight="0.38322148" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Resources Explorer" order="6" weight="0.3295302" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.22013423" />
+      <window_info id="Captures" order="8" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Logcat" order="0" weight="0.3286119" />
+      <window_info anchor="bottom" id="TODO" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.33427763" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.08389262" side_tool="true" weight="0.75637394" />
+      <window_info anchor="bottom" id="Build" order="6" sideWeight="0.91610736" weight="0.3243626" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.3286119" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Preview" order="3" weight="0.28389263" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" weight="0.36040267" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="app">
+        <watch expression="user.dataNascimento" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>user.dataNascimento</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/nav_header.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_mapas_aulas.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/app_backup/vistas/PlanoSelecionadoActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/app_backup/vistas/AlterarPasswordDialog.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/app_backup/modelos/Aula.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/app_backup/modelos/Plano.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/app_backup/modelos/User.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/app_backup/modelos/SportGymDBHelper.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/app_backup/modelos/MosquittoCallBack.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/app_backup/vistas/BemEstarActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/app_backup/listeners/PlanosListener.java" />
+    <entry file="file://$USER_HOME$/Documents/AndroidStudio/DeviceExplorer/emulator-5554/data/data/com.example.app_backup/shared_prefs/remember_checkBox.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_bem_estar.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/alterar_password_layout.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="36" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/app_backup/vistas/ListaPlanoFragment.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/app_backup/vistas/GrelhaPlanoFragment.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_plano_selecionado.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/alterar_username_layout.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="51" column="51" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="51" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/app_backup/vistas/AlterarUsernameDialog.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/app_backup/modelos/SingletonSportgym.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/app_backup/vistas/DadosPessoaisActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/app_backup/vistas/LoginActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/app_backup/vistas/ComoUsarAppFragment.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/app_backup/vistas/HomeFragment.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/app_backup/vistas/AcercaSportGymFragment.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/app_backup/vistas/MainActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_como_usar_app.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_definicoes.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="512" selection-start-line="17" selection-start-column="512" selection-end-line="17" selection-end-column="512" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_dados_pessoais.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="94" column="40" selection-start-line="94" selection-start-column="40" selection-end-line="94" selection-end-column="40" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_acerca_sport_gym.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sportgym/vistas/PlanoSelecionadoActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1838">
+          <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sportgym/vistas/MapasAulasActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sportgym/vistas/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-940">
+          <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sportgym/vistas/DadosPessoaisActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sportgym/vistas/ComoUsarAppFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="30" column="67" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sportgym/vistas/HomeFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-277">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sportgym/vistas/AlterarUsernameDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sportgym/vistas/AlterarPasswordDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sportgym/vistas/AcercaSportGymFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sportgym/vistas/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1501">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sportgym/vistas/ListaPlanoFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="89" column="49" selection-start-line="89" selection-start-column="49" selection-end-line="89" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sportgym/modelos/SportGymDBHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sportgym/vistas/GrelhaPlanoFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="133" column="8" selection-start-line="133" selection-start-column="8" selection-end-line="134" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sportgym/modelos/Plano.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="method#Plano#0;class#Plano#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sportgym/modelos/SingletonSportgym.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="163" column="87" selection-start-line="163" selection-start-column="87" selection-end-line="163" selection-end-column="87" />
+          <folding>
+            <element signature="method#getInstance#0;class#SingletonSportgym#0" />
+            <element signature="method#SingletonSportgym#0;class#SingletonSportgym#0" />
+            <element signature="method#setPlanosListener#0;class#SingletonSportgym#0" />
+            <element signature="method#getPlano#0;class#SingletonSportgym#0" />
+            <element signature="method#adicionarPlanoBD#0;class#SingletonSportgym#0" />
+            <element signature="method#adicionarPlanosBD#0;class#SingletonSportgym#0" />
+            <element signature="method#getAulasBD#0;class#SingletonSportgym#0" />
+            <element signature="method#getUsername#1;class#SingletonSportgym#0" />
+            <element signature="method#putAlterarUsernameAPI#0;class#SingletonSportgym#0" />
+            <element signature="method#putAlterarPasswordAPI#0;class#SingletonSportgym#0" />
+            <element signature="method#putAlterarPesoAlturaAPI#0;class#SingletonSportgym#0" />
+            <element signature="method#getAllPlanosNutricaoAPI#0;class#SingletonSportgym#0" />
+            <element signature="method#getAllPlanosTreinoAPI#0;class#SingletonSportgym#0" />
+            <element signature="method#adicionarPlanoTreinoAPI#0;class#SingletonSportgym#0" />
+            <element signature="method#adicionarPlanoNutricaoAPI#0;class#SingletonSportgym#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/sportgym/vistas/BemEstarActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
